@@ -1,5 +1,6 @@
-# JSP, Javascript 기반의 웹 페이지입니다.
+# Jsp, Javascript 기반의 웹 페이지입니다.
 
+### [유튜브 시연 영상](https://youtu.be/j4waQd7bNaQ)
 
 ●  기간 2019.01.23 ~ 2019.01.31 / 3인 프로젝트  
 ●  open API 사용을 숙달하기 위해 진행한 프로젝트입니다.  
